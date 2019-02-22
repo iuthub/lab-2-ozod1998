@@ -1,0 +1,28 @@
+body {
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+    background-color: lightyellow;
+    position: center;   
+}
+
+h1 {
+	color: red;
+	font-size: 50px;
+}
+h2 {
+	color: red;
+}
+
+p {
+	color: navy-blue;
+	font-family: Verdana;
+	font-style: oblique;
+}
+strong {
+    color: chocolate;
+}
+ul {
+	color: maroon;
+}
